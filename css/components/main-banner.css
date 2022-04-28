@@ -3,18 +3,29 @@
     background-size: cover;
     background-repeat: no-repeat;  
     text-align: center;
-    height: 30em;
+    height: 31em;
     width: 100%;
+    border-bottom: .3em solid #141b38;
+}
+
+.main-banner #exag{
+    position: absolute;
+    top: 5em;
+    left:3em;
+    width: 52em;
+    height: 32em;
 }
 
 .main-banner.-sobre{
+    margin-top: 6em;
     display: inline-block;
-    background-image: url(../../assets/imagem/telaInicial.jpg);
+    background-image: url(../../assets/imagem/telainicial.png);
 }
 
 .main-banner.-produtos{
     display: block;
     background-image: url(../../assets/imagem/fundo.exagono.png);
+    background-size: cover;
 }
 
 
