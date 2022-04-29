@@ -8,10 +8,14 @@
     background-color: #f2f8fb;
 }
 
+.main-contato aside{
+    align-items: center;
+}
+
 .main-contato form {
     display: flex;
     flex-direction: column;
-    width: 70%;
+    width: 60%;    
 }
 
 .main-contato form [type="submit"] {
