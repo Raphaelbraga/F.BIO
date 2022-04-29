@@ -1,6 +1,26 @@
 footer {
     background-color: #141b38;
     text-align: center;
-    height: 3em;
+    height: 2em;
     padding-top: 1em;
+    font-size: 1em;
 }
+
+.download-btn{
+    background-color: rgb(132, 14, 200);
+    color: white;
+    font-weight: bold;
+    width: 8em;
+    height: 1.5em;
+    text-decoration: none;
+    border-radius: 20px;
+    padding: .5em;
+    align-self: center;
+    margin-top: 2em;
+}
+
+span{
+    color: rgb(132, 14, 201);
+    font-size: 1em;
+}
+

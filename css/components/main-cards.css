@@ -1,25 +1,35 @@
 .main-cards{
     width: 35em;
-    height: 35em;
+    height: 25em;
+}
+.main-cards p{
+    padding-top: 1em;
 }
 
 .main-cards.-sobre{
+    padding: 1em 1em 0 1em;
     position: absolute;
-    z-index: 0;
-    padding-top: 2em;
     color: #141b38;
     right: 2em;
     text-align: center;
     font-size: 1.4em;
     width: 25em;
-    height: 20em;
+    height: 16em;
 }
 
 .main-cards.-produtos img{
-    width: 34em;
-    height: 34em;
+    margin-left: 2em;
+    width: 30em;
+    height: 26em;
 }
 
-.main-cards.-inform{
-
+.main-cards.-inform {
+    display: flex;
+    flex-direction: column;
+    width: 20em;
+    height: 14em;
+    padding-top: 2em;
+    text-align: center;
+    font-size: 1.5em;
+    color: #141b38;
 }

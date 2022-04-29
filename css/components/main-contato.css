@@ -1,32 +1,17 @@
 .main-contato{
+    display: block;
     padding-top: 1em;
     text-align: center;
-    height: 30em;
-    width: 100%;
+    height: 35em;
     font-family:"Fira Code";
-    display: block;
-    background-color: #f2f8fb;
-}
-.main-contato aside{
-    width: 40em;
-    position: relative;
-    left: 0;
-}
-.main-contato article{
-    width: 40em;
-    position: relative;
-    right: 0;
-}
-span{
-    color: rgb(132, 14, 201);
-    font-size: 1.5em;
+    background-color: #ebf6fb;
 }
 
 .main-contato form {
-    align-self: center;
     display: flex;
+    align-self: center;
     flex-direction: column;
-    width: 50%;    
+    width: 80%;    
 }
 
 .main-contato form [type="submit"] {
