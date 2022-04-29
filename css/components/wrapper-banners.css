@@ -1,0 +1,9 @@
+.wrapper-banners{
+   box-sizing: content-box;
+   display: flex;
+   flex-direction: row;
+}
+
+.wrapper-banner.-produtos{
+
+}
