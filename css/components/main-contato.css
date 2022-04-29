@@ -7,15 +7,26 @@
     display: block;
     background-color: #f2f8fb;
 }
-
 .main-contato aside{
-    align-items: center;
+    width: 40em;
+    position: relative;
+    left: 0;
+}
+.main-contato article{
+    width: 40em;
+    position: relative;
+    right: 0;
+}
+span{
+    color: rgb(132, 14, 201);
+    font-size: 1.5em;
 }
 
 .main-contato form {
+    align-self: center;
     display: flex;
     flex-direction: column;
-    width: 60%;    
+    width: 50%;    
 }
 
 .main-contato form [type="submit"] {
@@ -24,6 +35,7 @@
     background-color: rgb(132, 14, 201);
     color: white;
     font-weight: bold;
+    align-self: center;
 }
 
 .main-contato form [type="submit"]:hover {

@@ -1,5 +1,9 @@
+.main-cards{
+    width: 35em;
+    height: 35em;
+}
 
-.cardSobre-main {
+.main-cards.-sobre{
     position: absolute;
     z-index: 0;
     padding-top: 2em;
@@ -11,3 +15,11 @@
     height: 20em;
 }
 
+.main-cards.-produtos img{
+    width: 34em;
+    height: 34em;
+}
+
+.main-cards.-inform{
+
+}
