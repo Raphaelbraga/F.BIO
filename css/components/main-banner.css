@@ -10,10 +10,10 @@
 
 .main-banner #exag{
     position: absolute;
-    top: 5em;
-    left:3em;
-    width: 52em;
-    height: 32em;
+    top: 7em;
+    left:1em;
+    width: 48em;
+    height: 28em;
 }
 
 .main-banner.-sobre{
@@ -24,6 +24,9 @@
 
 .main-banner.-produtos{
     display: block;
+    height: 34em;
+    margin-left: auto;
+    margin-right: auto;
     background-image: url(../../assets/imagem/fundo.exagono.png);
     background-size: cover;
 }

@@ -1,9 +1,9 @@
-.wrapper-sobre{
+.wrapper-nav{
     display: flex;
     align-items: flex-end;
 }
 
-.wrapper-sobre img {
+.wrapper-nav img {
     width: 1.5em;
     height: 1.5em;
 }
